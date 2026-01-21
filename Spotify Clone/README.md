@@ -63,7 +63,6 @@ All design credits belong to Spotify. No copyright infringement intended.
 ---
 
 ## 👤 Author
-
-**Krishan Raj**  
+Krishan Raj 
 Computer Science & Data Analytics Student  
 IIT Patna
